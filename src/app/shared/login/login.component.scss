@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 15vh;
+}
+
+.form-container {
+    width: 30rem;
+    padding: 4rem;
+    border-radius: 5px;
+    background-color: rgb(200, 240, 227);
+}
